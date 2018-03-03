@@ -1,4 +1,4 @@
-#3. gyakorlat
+# 3. gyakorlat
 
 A korábbi Tanuló osztály felhasználásával a főprogramban definiáljuk tanulók egy vektorát.
 (Vector használatával)
